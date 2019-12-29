@@ -1,4 +1,4 @@
-module github.com/kuangcp/gobase/repomanager
+module github.com/kuangcp/gogit
 
 go 1.13
 

@@ -10,9 +10,8 @@ func Test_clone(t *testing.T) {
 		name string
 		args args
 	}{
-		// TODO: Add test cases.
 		{
-			name: "fdsfd",
+			name: "GoBase",
 			args: args{"https://github.com/Kuangcp/GoBase"},
 		},
 	}
